@@ -13,6 +13,7 @@
     ]
   },
   "hosting": {
+	"site": "timothyandrus",
     "public": ".next",
     "ignore": [
       "firebase.json",
