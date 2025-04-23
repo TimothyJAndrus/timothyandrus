@@ -30,7 +30,7 @@ export default function SectionPricing() {
             className={classNames(classes.mlAuto, classes.mrAuto)}
           >
             <h2 className={classes.title}>
-              Ready to grab NextJS Material Tim?
+              Ready to grab Timothy Andrus?
             </h2>
             <Button
               href="https://www.nowsta.com"

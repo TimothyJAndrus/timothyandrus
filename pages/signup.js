@@ -56,7 +56,7 @@ export default function SignUpPage({ ...rest }) {
       <Header
         absolute
         color="transparent"
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="rose" />}
         {...rest}
       />

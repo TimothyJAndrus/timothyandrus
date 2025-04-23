@@ -35,7 +35,7 @@ export default function AboutUsPage() {
   return (
     <div>
       <Header
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="info" />}
         fixed
         color="transparent"

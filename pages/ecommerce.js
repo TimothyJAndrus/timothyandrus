@@ -48,7 +48,7 @@ export default function EcommercePage() {
   return (
     <div>
       <Header
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="info" />}
         fixed
         color="transparent"
@@ -74,10 +74,10 @@ export default function EcommercePage() {
               )}
             >
               <div className={classes.brand}>
-                <h1 className={classes.title}>Howard's Menswear</h1>
+                <h1 className={classes.title}>Leadership and Love</h1>
                 <h4>
-                  Free global delivery for all products. Use coupon{" "}
-                  <b>25spring</b> for an extra 25% Off
+                  How to effectively lead teams in uncertain times{" "}
+                  {/* <b>25spring</b> for an extra 25% Off */}
                 </h4>
               </div>
             </GridItem>

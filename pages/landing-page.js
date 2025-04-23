@@ -37,7 +37,7 @@ export default function LandingPage({ ...rest }) {
     <div>
       <Header
         color="transparent"
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="info" />}
         fixed
         changeColorOnScroll={{

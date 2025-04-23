@@ -71,7 +71,7 @@ export default function ProductPage() {
   return (
     <div className={classes.productPage}>
       <Header
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="rose" />}
         fixed
         color="transparent"

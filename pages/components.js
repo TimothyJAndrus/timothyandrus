@@ -102,7 +102,7 @@ export default function Components() {
   return (
     <div>
       <Header
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="info" />}
         fixed
         color="transparent"

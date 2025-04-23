@@ -52,7 +52,7 @@ export default class MyApp extends App {
     return (
       <React.Fragment>
         <Head>
-          <title>NextJS Material by Tim</title>
+          <title>Timothy Andrus</title>
         </Head>
         <Component {...pageProps} />
       </React.Fragment>

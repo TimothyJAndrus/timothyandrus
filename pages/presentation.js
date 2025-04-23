@@ -38,7 +38,7 @@ export default function PresentationPage() {
   return (
     <div>
       <Header
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="info" />}
         fixed
         color="transparent"
@@ -54,13 +54,13 @@ export default function PresentationPage() {
         <div className={classes.container}>
           <GridContainer>
             <GridItem>
-              <div className={classes.brand}>
+              <div className={classNames(classes.brand, classes.proBadge)}>
                 <h1>
-                  NextJS Material
-                  <span className={classes.proBadge}>TIM</span>
+                 Timothy Andrus
+                  {/* <span className={classes.proBadge}>TM</span> */}
                 </h1>
                 <h3 className={classes.title}>
-                  A Badass NextJS project based on Material Design.
+                  Technology and Design
                 </h3>
               </div>
             </GridItem>
@@ -88,7 +88,7 @@ export default function PresentationPage() {
                 target="_blank"
                 className={classes.footerBrand}
               >
-                NextJS Material TIM
+                Timothy Andrus
               </a>
             </div>
             <div className={classes.pullCenter}>

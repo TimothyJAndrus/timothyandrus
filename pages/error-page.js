@@ -30,7 +30,7 @@ export default function ErrorPage({ ...rest }) {
       <Header
         absolute
         color="transparent"
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="dark" />}
         {...rest}
       />

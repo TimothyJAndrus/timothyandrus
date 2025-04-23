@@ -61,7 +61,7 @@ export default function ProfilePage({ ...rest }) {
     <div>
       <Header
         color="transparent"
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="info" />}
         fixed
         changeColorOnScroll={{

@@ -203,7 +203,7 @@ export default function SectionProjects({ ...rest }) {
                     target="_blank"
                   >
                     <h4 className={classes.cardTitle}>
-                      NextJS Material TIM
+                      Timothy Andrus
                     </h4>
                   </a>
                   <h6 className={classes.description}>FREE UI KIT COMING SOON</h6>

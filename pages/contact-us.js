@@ -116,7 +116,7 @@ export default function ContactUsPage() {
   return (
     <div>
       <Header
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="dark" />}
         fixed
         color="dark"

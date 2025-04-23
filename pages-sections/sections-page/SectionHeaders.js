@@ -409,7 +409,7 @@ export default function SectionHeaders({ ...rest }) {
               <div className={classes.container}>
                 <GridContainer>
                   <GridItem xs={12} sm={6} md={6}>
-                    <h1 className={classes.title}>NextJS Material TIM</h1>
+                    <h1 className={classes.title}>Timothy Andrus</h1>
                     <h4>
                       Dolce & Gabbana is a luxury Italian fashion house founded
                       in 1985 in Legnano by Italian designers Domenico Dolce and
@@ -453,7 +453,7 @@ export default function SectionHeaders({ ...rest }) {
                       classes.textCenter
                     )}
                   >
-                    <h1 className={classes.title}>NextJS Material TIM</h1>
+                    <h1 className={classes.title}>Timothy Andrus</h1>
                     <h4>
                       Dolce & Gabbana is a luxury Italian fashion house founded
                       in 1985 in Legnano by Italian designers Domenico Dolce and

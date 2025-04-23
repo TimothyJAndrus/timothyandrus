@@ -39,7 +39,7 @@ export default function LoginPage() {
       <Header
         absolute
         color="transparent"
-        brand="NextJS Material TIM"
+        brand="Timothy Andrus"
         links={<HeaderLinks dropdownHoverColor="info" />}
       />
       <div
@@ -163,7 +163,7 @@ export default function LoginPage() {
                       target="_blank"
                       className={classes.block}
                     >
-                      Tim Andrus
+                      Timothy Andrus
                     </a>
                   </ListItem>
                   <ListItem className={classes.inlineBlock}>
