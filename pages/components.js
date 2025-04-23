@@ -120,10 +120,10 @@ export default function Components() {
             <GridItem>
               <div className={classes.brand}>
                 <h1>
-                  NextJS Material{" "}
-                  <span className={classes.proBadge}>TIM</span>
+                  Leadership during the Storm{" "}
+                  {/* <span className={classes.proBadge}>TIM</span> */}
                 </h1>
-                <h3 className={classes.title}>All Components</h3>
+                <h3 className={classes.title}>Timothy Andrus</h3>
               </div>
             </GridItem>
           </GridContainer>
