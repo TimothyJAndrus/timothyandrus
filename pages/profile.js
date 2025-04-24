@@ -84,7 +84,7 @@ export default function ProfilePage({ ...rest }) {
                   <img src={christian} alt="..." className={imageClasses} />
                 </div>
                 <div className={classes.name}>
-                  <h3 className={classes.title}>Christian Louboutin</h3>
+                  <h3 className={classes.title}>Timothy Andrus</h3>
                   <h6>DESIGNER</h6>
                   <Button
                     justIcon
