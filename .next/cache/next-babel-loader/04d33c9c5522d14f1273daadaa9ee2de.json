@@ -1,0 +1,1 @@
+{"ast":null,"code":"var instructionStyle = {\n  instruction: {},\n  picture: {},\n  image: {\n    width: \"100%\",\n    height: \"auto\",\n    borderRadius: \"6px\",\n    display: \"block\",\n    maxWidth: \"100%\"\n  }\n};\nexport default instructionStyle;","map":null,"metadata":{},"sourceType":"module"}
