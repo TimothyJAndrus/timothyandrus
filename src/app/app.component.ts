@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
     standalone: false
 })
 export class AppComponent {
-  title = 'Timothy Andrus';
+  title = 'Leadership in Technology During Uncertain Times';
 }
