@@ -197,10 +197,10 @@
     tslib "^2.3.0"
     yargs "^17.2.1"
 
-"@angular/compiler@^19.2.9":
-  version "19.2.9"
-  resolved "https://registry.npmjs.org/@angular/compiler/-/compiler-19.2.9.tgz"
-  integrity sha512-K6wtAsJhQeD2OjoupV03gWHBqnqhEP9llzFzlnQoXAAZzM1eIT/KAtQEdNY75NO+BESKxaXvQBAU16Tg/1I6uw==
+"@angular/compiler@^19.2.18":
+  version "19.2.18"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-19.2.18.tgz#c86f7126c9bd757bca180b2f98d0be57462bd162"
+  integrity sha512-3MscvODxRVxc3Cs0ZlHI5Pk5rEvE80otfvxZTMksOZuPlv1B+S8MjWfc3X3jk9SbyUEzODBEH55iCaBHD48V3g==
   dependencies:
     tslib "^2.3.0"
 
@@ -4020,43 +4020,9 @@ find-up@^6.3.0:
     locate-path "^7.1.0"
     path-exists "^5.0.0"
 
-firebase@^11.2.0:
+firebase@^11.2.0, firebase@^11.6.1:
   version "11.6.1"
   resolved "https://registry.npmjs.org/firebase/-/firebase-11.6.1.tgz"
-  integrity sha512-aF00ZR+ziiq5/vxamCKpY1I0LA/ungG2qrsQIDibT+xqdvz8MaMnN0aHU4LIxxTx+Dbga/KlUXeklidRJahgHg==
-  dependencies:
-    "@firebase/analytics" "0.10.12"
-    "@firebase/analytics-compat" "0.2.18"
-    "@firebase/app" "0.11.5"
-    "@firebase/app-check" "0.8.13"
-    "@firebase/app-check-compat" "0.3.20"
-    "@firebase/app-compat" "0.2.54"
-    "@firebase/app-types" "0.9.3"
-    "@firebase/auth" "1.10.1"
-    "@firebase/auth-compat" "0.5.21"
-    "@firebase/data-connect" "0.3.4"
-    "@firebase/database" "1.0.14"
-    "@firebase/database-compat" "2.0.5"
-    "@firebase/firestore" "4.7.11"
-    "@firebase/firestore-compat" "0.3.46"
-    "@firebase/functions" "0.12.3"
-    "@firebase/functions-compat" "0.3.20"
-    "@firebase/installations" "0.6.13"
-    "@firebase/installations-compat" "0.2.13"
-    "@firebase/messaging" "0.12.17"
-    "@firebase/messaging-compat" "0.2.17"
-    "@firebase/performance" "0.7.2"
-    "@firebase/performance-compat" "0.2.15"
-    "@firebase/remote-config" "0.6.0"
-    "@firebase/remote-config-compat" "0.2.13"
-    "@firebase/storage" "0.13.7"
-    "@firebase/storage-compat" "0.3.17"
-    "@firebase/util" "1.11.0"
-    "@firebase/vertexai" "1.2.1"
-
-firebase@^11.6.1:
-  version "11.6.1"
-  resolved "https://registry.yarnpkg.com/firebase/-/firebase-11.6.1.tgz#a2e1e8a39f77c3adf800344c57a3a0ca23d1d762"
   integrity sha512-aF00ZR+ziiq5/vxamCKpY1I0LA/ungG2qrsQIDibT+xqdvz8MaMnN0aHU4LIxxTx+Dbga/KlUXeklidRJahgHg==
   dependencies:
     "@firebase/analytics" "0.10.12"
